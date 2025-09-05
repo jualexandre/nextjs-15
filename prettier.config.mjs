@@ -6,7 +6,7 @@ const config = {
     semi: true,
     singleQuote: true,
     quoteProps: 'as-needed',
-    jsxSingleQuote: true,
+    jsxSingleQuote: false,
     trailingComma: 'es5',
     bracketSpacing: true,
     bracketSameLine: false,
